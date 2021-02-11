@@ -552,3 +552,10 @@ img{
     column-gap: 7rem;
   }
 }
+
+/* For tall screens on mobiles y desktop*/
+@media screen and (min-height: 721px) {
+    .home__container {
+        height: 640px;
+    }
+}
