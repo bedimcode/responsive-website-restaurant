@@ -5,3 +5,4 @@ Nice design of a responsive restaurant website 🥗 . It contains a header, home
 
 Don't forget to join the channel for more videos like this.
 [Bedimcode](https://www.youtube.com/c/Bedimcode)
+Few changes has being done on the project in index.html also in image section.
